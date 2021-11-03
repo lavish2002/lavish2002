@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lavish2002
+- 👀 I’m interested in building and learning new things.
+- 🌱 I’m currently learning web development and DSA.
+- 💞️ I’m looking to collaborate on open source projects.
